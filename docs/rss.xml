@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>Blog description</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Fri, 08 Aug 2025 12:00:07 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>如何使用tkinter创建一个GUI</title><link>https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html</link><description>代码
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>Blog description</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Fri, 08 Aug 2025 12:18:42 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>如何正确使用tkinter标签</title><link>https://lovecitlalivm.github.io/post/ru-he-zheng-que-shi-yong-tkinter-biao-qian.html</link><description>#标签
+##标签有什么用？
+在tkinterGUI程序中创建标签可以实现
+1.文字显示
+2.图片显示
+这使得标签变得非常实用
+---
+##如何创建文字标签？
+在[上一篇博客](https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html'访问博客')中，我创建了一个600x600的GUI程序，代码如下
+```
+import tkinter as tk
+
+master = tk.Tk()
+master.geometry('600x600')
+master.title('Hello tkinter')
+
+master.mainloop()
+```
+那么要创建文字标签只需要这样
+```
+import tkinter as tk
+
+master = tk.Tk()
+master.geometry('600x600')
+master.title('Hello tkinter')
+
+label = tk.Label(master,text='祝你开心!')#等号前的只是标签的名字可以随意哦（英文）
+label.place(x=50,y=100)#这里使用label.pack()同样可行,用place为准
+
+master.mainloop()
+```
+效果如下
+![图片加载失败](https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/images/b2_1.png'好看吗')
+。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/ru-he-zheng-que-shi-yong-tkinter-biao-qian.html</guid><pubDate>Fri, 08 Aug 2025 12:18:14 +0000</pubDate></item><item><title>如何使用tkinter创建一个GUI</title><link>https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html</link><description>代码
 ```
 import tkinter as tk
 
