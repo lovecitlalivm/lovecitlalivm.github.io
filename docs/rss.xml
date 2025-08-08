@@ -1,2 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>Blog description</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Fri, 08 Aug 2025 05:39:42 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>第一篇</title><link>https://lovecitlalivm.github.io/post/di-yi-pian.html</link><description>123456789。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/di-yi-pian.html</guid><pubDate>Fri, 08 Aug 2025 05:39:16 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>Blog description</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Fri, 08 Aug 2025 11:43:17 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>如何使用tkinter创建一个GUI</title><link>https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html</link><description>`import tkinter as tk
+
+master = tk.Tk()
+master.geometry('600x600')
+master.title('Hello tkinter')
+
+master.mainloop()`
+
+geometry设置尺寸，乘号为字母x，单位为像素
+title窗口标题，括号内填写字符串
+
+接下来只需要加入控件就可以了。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html</guid><pubDate>Fri, 08 Aug 2025 11:42:49 +0000</pubDate></item><item><title>第一篇</title><link>https://lovecitlalivm.github.io/post/di-yi-pian.html</link><description>123456789。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/di-yi-pian.html</guid><pubDate>Fri, 08 Aug 2025 05:39:16 +0000</pubDate></item></channel></rss>
