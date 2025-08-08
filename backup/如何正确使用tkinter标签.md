@@ -6,7 +6,7 @@
 这使得标签变得非常实用
 ---
 ##如何创建文字标签？
-在[上一篇博客](https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html"访问博客")中，我创建了一个600x600的GUI程序，代码如下
+在[上一篇博客](https://lovecitlalivm.github.io/post/ru-he-shi-yong-tkinter-chuang-jian-yi-ge-GUI.html)中，我创建了一个600x600的GUI程序，代码如下
 ```
 import tkinter as tk
 
