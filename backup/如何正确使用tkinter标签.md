@@ -30,4 +30,4 @@ label.place(x=50,y=100)#这里使用label.pack()同样可行,用place为准
 master.mainloop()
 ```
 效果如下
-![图片加载失败](https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/images/b2_1.png"好看吗")
+![图片加载失败](https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/images/b2_1.png)
