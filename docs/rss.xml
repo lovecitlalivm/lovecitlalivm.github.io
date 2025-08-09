@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>谜烟流彩，曜石映心，白星黑曜，茜门永存！</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Sat, 09 Aug 2025 13:18:06 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>05 拥有视频网页链接如何下载呢？</title><link>https://lovecitlalivm.github.io/post/05%20-yong-you-shi-pin-wang-ye-lian-jie-ru-he-xia-zai-ni-%EF%BC%9F.html</link><description>#开篇语
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茜心妲念的博客</title><link>https://lovecitlalivm.github.io</link><description>谜烟流彩，曜石映心，白星黑曜，茜门永存！</description><copyright>茜心妲念的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/lovecitlalivm/lovecitlalivm.github.io/refs/heads/main/image.jpg</url><title>avatar</title><link>https://lovecitlalivm.github.io</link></image><lastBuildDate>Sat, 09 Aug 2025 13:19:20 +0000</lastBuildDate><managingEditor>茜心妲念的博客</managingEditor><ttl>60</ttl><webMaster>茜心妲念的博客</webMaster><item><title>05 拥有视频网页链接如何下载呢？</title><link>https://lovecitlalivm.github.io/post/05%20-yong-you-shi-pin-wang-ye-lian-jie-ru-he-xia-zai-ni-%EF%BC%9F.html</link><description>#开篇语
 你是否还在为无法下载视频而烦恼呢？
 我也是终于找到下载视频（主要是外国视频）的方法了！（仅限电脑）
 ---
@@ -19,11 +19,11 @@
 右键找到在终端打开
 输入`yt-dlp 你的视频网页链接`
 等待片刻就下载好了
-。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/05%20-yong-you-shi-pin-wang-ye-lian-jie-ru-he-xia-zai-ni-%EF%BC%9F.html</guid><pubDate>Sat, 09 Aug 2025 13:15:36 +0000</pubDate></item><item><title>邮件发送器</title><link>https://lovecitlalivm.github.io/post/you-jian-fa-song-qi.html</link><description>基于PythonTkinter制作
+。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/05%20-yong-you-shi-pin-wang-ye-lian-jie-ru-he-xia-zai-ni-%EF%BC%9F.html</guid><pubDate>Sat, 09 Aug 2025 13:15:36 +0000</pubDate></item><item><title>04 邮件发送器</title><link>https://lovecitlalivm.github.io/post/04%20-you-jian-fa-song-qi.html</link><description>基于PythonTkinter制作
 [b站链接](https://www.bilibili.com/video/BV13YtpzTEvB/)
 效果图如下
 ![加载失败](https://i0.hdslb.com/bfs/new_dyn/bcf05923d183b8d73d84af8d819b89aa3546720975718978.png@1052w_!web-dynamic.avif)
-。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/you-jian-fa-song-qi.html</guid><pubDate>Fri, 08 Aug 2025 14:55:59 +0000</pubDate></item><item><title>如何正确使用tkinter标签(没写完)</title><link>https://lovecitlalivm.github.io/post/ru-he-zheng-que-shi-yong-tkinter-biao-qian-%28-mei-xie-wan-%29.html</link><description>#标签
+。</description><guid isPermaLink="true">https://lovecitlalivm.github.io/post/04%20-you-jian-fa-song-qi.html</guid><pubDate>Fri, 08 Aug 2025 14:55:59 +0000</pubDate></item><item><title>如何正确使用tkinter标签(没写完)</title><link>https://lovecitlalivm.github.io/post/ru-he-zheng-que-shi-yong-tkinter-biao-qian-%28-mei-xie-wan-%29.html</link><description>#标签
 ##标签有什么用？
 在tkinterGUI程序中创建标签可以实现
 1.文字显示
